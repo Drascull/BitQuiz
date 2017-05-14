@@ -1,1 +1,1 @@
-# BitQuiz
+# BitQuiz is a motherfucking god!
