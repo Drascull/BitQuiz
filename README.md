@@ -1,6 +1,6 @@
 # BitQuiz is a motherfather god!
-## Но это не точно
-### Или точно
+## But it's not sure
+### Or it is
 
 ## Prerequisites
 - JDK 1.7 or later
