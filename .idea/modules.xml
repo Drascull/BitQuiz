@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BitQuiz.iml" filepath="$PROJECT_DIR$/BitQuiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/registration-login-spring-hsql.iml" filepath="$PROJECT_DIR$/.idea/registration-login-spring-hsql.iml" />
     </modules>
   </component>
 </project>

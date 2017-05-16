@@ -6,10 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="registration-login-spring-hsql" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="WebProject" target="1.5" />
+      <module name="registration-login-spring-hsql" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
