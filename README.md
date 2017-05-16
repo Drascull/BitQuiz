@@ -1,4 +1,6 @@
-# BitQuiz is a motherfucking god!
+# BitQuiz is a motherfather god!
+## Но это не точно
+### Или точно
 
 ## Prerequisites
 - JDK 1.7 or later
